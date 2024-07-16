@@ -16,8 +16,14 @@ const faqdata: faqdata[] = [
   },
   {
     heading: "2. How to create a website in iegcode?",
-    subheading:
-      "Chat first with the admin to create a website. We provide website creation services at competitive prices and with professional and of course experienced service. the conditions are as follows: 1. WEBAPPS based application? 2. Fees start from 1,500,000, can be more expensive depending on the difficulty of the application being made. 3. Application creation begins after payment of a down payment of 10% of the agreed fee. 4. Consultations can be done directly with admin chat via DM or Platform Contact. 5. Mutually agreed costs include application specifications or order queues.",
+    subheading: `Chat first with the admin to create a website. CP Admin Click Hub → <a href="https://api.whatsapp.com/send/?phone=6285876076005&text&type=phone_number&app_absent=0">(+62) 858-7607-6005.</a><br><br> 
+    We provide website creation services at competitive prices and with professional and of course experienced service.<br><br>  
+    The conditions are as follows:<br>
+    1. WEBAPPS based application?<br> 
+    2. Fees start from 1,500,000, can be more expensive depending on the difficulty of the application being made.<br> 
+    3. Application creation begins after payment of a down payment of 10% of the agreed fee.<br> 
+    4. Consultations can be done directly with admin chat via DM or Platform Contact.<br> 
+    5. Mutually agreed costs include application specifications or order queues.`,
   },
   {
     heading: "3. Do you get notes when purchasing products?",
@@ -57,9 +63,10 @@ const Faq = () => {
                             } h-5 w-5 text-purple-500`}
                           />
                         </Disclosure.Button>
-                        <Disclosure.Panel className="px-4 pt-4 pb-2 md:text-lg text-bluish font-normal opacity-50">
-                          {items.subheading}
-                        </Disclosure.Panel>
+                        <Disclosure.Panel
+                          className="px-4 pt-4 pb-2 md:text-lg text-bluish font-normal opacity-50"
+                          dangerouslySetInnerHTML={{ __html: items.subheading }}
+                        />
                       </>
                     )}
                   </Disclosure>
