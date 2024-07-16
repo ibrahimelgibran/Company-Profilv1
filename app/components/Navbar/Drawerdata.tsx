@@ -9,7 +9,7 @@ interface NavigationItem {
 
 const navigation: NavigationItem[] = [
   { name: "Home", href: "#home-section", current: false },
-  { name: "Promo", href: "#promo-section", current: false },
+  { name: "Promo Live", href: "#promo-section", current: false },
   { name: "Features", href: "#features-section", current: false },
   { name: "FAQ", href: "#faq-section", current: false },
   { name: "Contact", href: "#id-section", current: false },
