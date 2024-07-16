@@ -72,7 +72,7 @@ const Navbar = () => {
               </div>
               <a href="https://www.ibrahimelgibran.com/contact">
                 <button className="hidden lg:flex justify-end text-xl font-semibold py-4 px-6 lg:px-12 navbutton text-white">
-                  Contact
+                  Contact 📨
                 </button>
               </a>
               {/* <Contactusform /> */}
