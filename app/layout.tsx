@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar/index";
 import Footer from "./components/Footer/index";
 
 export const metadata = {
-  title: "IEGCODE",
+  title: "Company Profile - IEGCODE",
   description: "E-Commerce",
 };
 
