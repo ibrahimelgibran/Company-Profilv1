@@ -48,9 +48,9 @@ const footer = () => {
             />
             <h3 className="text-lightblue text-sm font-normal leading-9 mb-4 lg:mb-16">
               {" "}
-              Platform e-commerce website for your business who provides <br />{" "}
-              services your need. there are some type very
-              <br /> product e-commerce 🛒.
+              Platform e-commerce website for your business who provides
+              services your need. there are some type very product e-commerce
+              🛒.
             </h3>
             <div className="flex gap-4">
               {socialLinks.map((items, i) => (
