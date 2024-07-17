@@ -43,7 +43,7 @@ const Data = () => {
             <div className="mt-4"></div>
             <a href="https://www.ibrahimelgibran.com/contact">
               <button className="bg-navyblue w-full hover:text-white text-white border border-purple font-medium py-2 px-4 rounded">
-                Contact 📨
+                Collaborate 📩
               </button>
             </a>
           </div>
