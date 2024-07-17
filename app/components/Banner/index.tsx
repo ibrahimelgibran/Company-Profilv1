@@ -26,7 +26,7 @@ const Banner = () => {
                 Company Profile <br /> IEGCODE
               </h1>
               <p className="text-white md:text-lg font-normal mb-10 md:text-start text-center">
-                Platform for home software and an e-commerce website <br /> for
+                Platform for software home and an e-commerce website <br /> for
                 your business that caters to your needs 🛒.
               </p>
               <div className="flex align-middle justify-center md:justify-start">

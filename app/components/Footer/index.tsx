@@ -48,7 +48,7 @@ const footer = () => {
             />
             <h3 className="text-lightblue text-sm font-normal leading-9 mb-4 lg:mb-16">
               {" "}
-              Platform for home software and an e-commerce website <br /> for
+              Platform for software home and an e-commerce website <br /> for
               your business that caters to your needs 🛒.
             </h3>
             <div className="flex gap-4">
