@@ -21,12 +21,12 @@ const Trade = () => {
 
         <div>
           <h3 className="text-3xl lg:text-5xl font-semibold text-offwhite mb-6 text-center sm:text-start">
-            E-Commerce <br /> IEGCODE
+            Software House & <br />
+            E-Commerce IEGCODE
           </h3>
           <p className="lg:text-lg font-normal text-lightblue mb-16 text-center sm:text-start">
-            This is IEGCODE? e-commerce platform that provides the services you
-            need. there are several types of products that are very present in
-            e-commerce 🛒.
+            This is IEGCODE? Software house and E-Commerce platform that
+            provides the services you need 🛒.
           </p>
 
           <div className="justify-center mb-20">
