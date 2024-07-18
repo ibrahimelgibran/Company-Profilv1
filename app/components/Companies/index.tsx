@@ -12,10 +12,10 @@ const data: Data[] = [
     imgSrc: "/images/Companies/eskamuga.svg",
   },
   {
-    imgSrc: "/images/Companies/swift.svg",
+    imgSrc: "/images/Companies/nst.svg",
   },
   {
-    imgSrc: "/images/Companies/nst.svg",
+    imgSrc: "/images/Companies/swift.svg",
   },
   {
     imgSrc: "/images/Companies/soim.svg",
