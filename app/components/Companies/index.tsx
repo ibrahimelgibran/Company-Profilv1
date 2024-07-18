@@ -15,13 +15,13 @@ const data: Data[] = [
     imgSrc: "/images/Companies/swift.svg",
   },
   {
+    imgSrc: "/images/Companies/nst.svg",
+  },
+  {
     imgSrc: "/images/Companies/soim.svg",
   },
   {
     imgSrc: "/images/Companies/pepundan.svg",
-  },
-  {
-    imgSrc: "/images/Companies/nst.svg",
   },
   {
     imgSrc: "/images/Companies/cleanee.svg",
