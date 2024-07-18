@@ -15,6 +15,9 @@ const data: Data[] = [
     imgSrc: "/images/Companies/swift.svg",
   },
   {
+    imgSrc: "/images/Companies/pepundan.svg",
+  },
+  {
     imgSrc: "/images/Companies/soim.svg",
   },
   {
