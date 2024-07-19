@@ -123,7 +123,7 @@ const footer = () => {
 
       <div className="py-8 px-4 border-t border-t-lightblue">
         <h3 className="text-center text-offwhite">
-          made with 💙
+          made with 💙 by
           <Link href="https://iegcode.com/" target="_blank">
             {" "}
             iegcode
