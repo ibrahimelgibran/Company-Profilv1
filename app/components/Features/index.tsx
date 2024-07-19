@@ -13,7 +13,7 @@ const featuresdata: featuresdata[] = [
     subheading: "We lake data security and privacy very seriously.",
   },
   {
-    imgSrc: "/images/Features/mudah.png",
+    imgSrc: "/images/Features/mudah.svg",
     heading: "Easy to use",
     subheading: "Easy to use and responsive features.",
   },

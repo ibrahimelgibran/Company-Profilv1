@@ -9,7 +9,7 @@ interface Data {
 
 const data: Data[] = [
   {
-    imgSrc: "/images/Companies/eskamuga.svg",
+    imgSrc: "/images/Companies/smk.svg",
   },
   {
     imgSrc: "/images/Companies/nst.svg",
@@ -76,7 +76,7 @@ export default class MultipleItems extends Component {
     };
 
     return (
-      <div className="text-center bg-lightpink">
+      <div className="-mt-32 text-center bg-lightpink">
         <div className="mx-auto max-w-2xl py-16 px-4s sm:px-6 lg:max-w-7xl lg:px-8">
           <div>
             <Slider {...settings}>

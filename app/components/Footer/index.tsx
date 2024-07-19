@@ -48,7 +48,7 @@ const footer = () => {
             />
             <h3 className="text-lightblue text-sm font-normal leading-9 mb-4 lg:mb-16">
               {" "}
-              Platform for software home and an e-commerce website <br /> for
+              Platform for software house and an e-commerce website <br /> for
               your business that caters to your needs 🛒.
             </h3>
             <div className="flex gap-4">
@@ -124,7 +124,7 @@ const footer = () => {
       <div className="py-8 px-4 border-t border-t-lightblue">
         <h3 className="text-center text-offwhite">
           made with 💙
-          <Link href="https://iegcode.my.id/" target="_blank">
+          <Link href="https://iegcode.com/" target="_blank">
             {" "}
             iegcode
           </Link>

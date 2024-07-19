@@ -9,9 +9,8 @@ const Trade = () => {
         {/* Column-1 */}
         <div>
           <Image
-            src={"/images/Trade/ieg.png"}
+            src={"/images/Logo/demo.svg"}
             alt="macBook-image"
-            style={{ marginTop: 100 }}
             width={787}
             height={512}
           />
@@ -30,7 +29,7 @@ const Trade = () => {
           </p>
 
           <div className="justify-center mb-20">
-            <a href="https://iegcode.my.id">
+            <a href="https://iegcode.com">
               <button className="text-xl font-semibold text-white py-4 px-6 lg:px-12 navbutton">
                 Click Here →
               </button>

@@ -26,11 +26,11 @@ const Banner = () => {
                 Company Profile <br /> IEGCODE
               </h1>
               <p className="text-white md:text-lg font-normal mb-10 md:text-start text-center">
-                Platform for software home and an e-commerce website <br /> for
+                Platform for software house and an e-commerce website <br /> for
                 your business that caters to your needs 🛒.
               </p>
               <div className="flex align-middle justify-center md:justify-start">
-                <a href="https://iegcode.my.id/register">
+                <a href="https://iegcode.com/register">
                   <button className="text-xl font-semibold text-white py-4 px-6 lg:px-12 navbutton mr-6">
                     Sign Up →
                   </button>
@@ -56,10 +56,11 @@ const Banner = () => {
               <div className="arrowFour"></div>
               <div className="arrowFive"></div>
               <Image
-                src="/images/Banner/bg4.png"
+                className="mt-28"
+                src="/images/Banner/ba17.svg"
                 alt="nothing"
-                width={1013}
-                height={760}
+                width={700}
+                height={100}
               />
               <div className="arrowSix"></div>
               <div className="arrowSeven"></div>

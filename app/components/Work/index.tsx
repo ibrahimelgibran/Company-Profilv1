@@ -18,7 +18,7 @@ const workdata: workdata[] = [
       "Next, if you already have an account, you can log in and continue ordering the order you want to check out.",
   },
   {
-    imgSrc: "/images/Work/bag.png",
+    imgSrc: "/images/Logo/bag.svg",
     heading: "Shopping",
     subheading:
       "The products we offer range from Website Creation services, Source Code, UI/UX services, logo design, Thrift, Social media injection and many others.",

@@ -14,7 +14,7 @@ const tableData: table[] = [
   {
     index: 1,
     name: "Website Creation(Jasa Category)",
-    imgSrc: "/images/Table/web.png",
+    imgSrc: "/images/Logo/web.svg",
     price: 1500000,
     change: -25,
     cap: 1125000,
@@ -23,7 +23,7 @@ const tableData: table[] = [
   {
     index: 2,
     name: "Source Code(Project Category)",
-    imgSrc: "/images/Table/code.png",
+    imgSrc: "/images/Logo/code.svg",
     price: 499000,
     change: -20,
     cap: 399200,
@@ -32,7 +32,7 @@ const tableData: table[] = [
   {
     index: 3,
     name: "Social Media Injection(PPOB&SMM Category)",
-    imgSrc: "/images/Table/sosialmedia.png",
+    imgSrc: "/images/Logo/sosialmedia.svg",
     price: 150000,
     change: -10,
     cap: 135000,
@@ -41,7 +41,7 @@ const tableData: table[] = [
   {
     index: 4,
     name: "Logo design(Graphic design)",
-    imgSrc: "/images/Table/logo.png",
+    imgSrc: "/images/Logo/logo.svg",
     price: 99000,
     change: -5,
     cap: 94050,
