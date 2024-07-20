@@ -119,7 +119,7 @@ const footer = () => {
         </div>
       </div>
 
-      {/* All Rights Reserved */}
+      {/* All Rights  Reserved */}
 
       <div className="py-8 px-4 border-t border-t-lightblue">
         <h3 className="text-center text-offwhite">
