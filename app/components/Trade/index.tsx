@@ -6,7 +6,7 @@ const Trade = () => {
       <div className="radial-bgone hidden lg:block"></div>
 
       <div className="grid lg:grid-cols-2 gap-x-5">
-        {/* Column-1 */}
+        {/* Colummn-1 */}
         <div>
           <Image
             src={"/images/Logo/demo.svg"}
